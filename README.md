@@ -1,6 +1,6 @@
 # NG-WP
 
-A minimal WordPress theme that runs off of an Angular 4 app. Built for the tutorial http://doppiaeast.com/article/angular-2-wordpress-theme-setup/.
+A minimal WordPress theme that runs off of an Angular 4 app. Built for the tutorial http://doppiaeast.com/post/angular-2-wordpress-theme-setup/.
 
 ## Usage
 
